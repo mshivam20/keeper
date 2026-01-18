@@ -35,12 +35,14 @@ body {
 .footer {
   color: #ccc;
 }
-.note {
+.notes {
+  
   background: #fff;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
-  width: 240px;
+  width: 400px;
+  height: 150px;
   margin: 16px;
   float: left;
 }
@@ -54,3 +56,4 @@ body {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
